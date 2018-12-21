@@ -13,7 +13,7 @@ public class Function {
             return true;
     }
     public static void main(String args[]){
-        Scanner sc=new Scanner();
+        Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
         if(func(str))
         System.out.println("String contains all the characters of alphabet");
