@@ -21,3 +21,4 @@ public class Function {
             System.out.println("String does not contain all the characters of alphabet");
     }
 }
+// Time Complexity is O(n) and space complexity is O(1).
