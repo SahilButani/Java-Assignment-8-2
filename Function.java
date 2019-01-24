@@ -31,3 +31,14 @@ public class Function {
     }
 }
 // Time Complexity is O(n) and space complexity is O(1).
+/*
+TEST CASES:
+1)
+abcdefghijklmnopqrstuvwxyz
+output: String contains all the characters of alphabet
+sahilButani fesd
+output:String does not contain all the characters of alphabet
+*/
+    
+    
+    
